@@ -1,3 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Uselessness
 include: ["_pages"]
+author:
+  name: "all of us"
+  
