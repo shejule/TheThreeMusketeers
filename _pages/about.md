@@ -14,7 +14,4 @@ Be Prepared for our never-ending chaos:
 > Better stop reading now.
 > Im telling you to stop.
 > Oh well. Looks like you wont stop.
->KEEP EXPLORING...but
->
->
-> Beware
+>KEEP EXPLORING...but *BEWARE*
