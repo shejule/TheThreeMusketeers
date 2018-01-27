@@ -15,3 +15,5 @@ Be Prepared for our never-ending chaos:
 > Im telling you to stop.
 > Oh well. Looks like you wont stop.
 >KEEP EXPLORING...but *BEWARE*
+
+![We TolD yOU](/https://assets.vogue.com/photos/5891c792ce34fb453af7d194/master/pass/drake-memes.gif/logo.png)
