@@ -18,4 +18,4 @@ Be Prepared for our never-ending chaos:
 
 ![We TolD yOU](https://assets.vogue.com/photos/5891c792ce34fb453af7d194/master/pass/drake-memes.gif/logo.png)
 
-img:https://image.ibb.co/kSOUWw/NPAav1517086562.jpg
+img: https://image.ibb.co/kSOUWw/NPAav1517086562.jpg
