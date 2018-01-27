@@ -1,0 +1,3 @@
+remote_theme: mmistakes/minimal-mistakes
+title: Uselessness
+include: ["_pages"]
